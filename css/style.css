@@ -167,9 +167,9 @@ header{
     
   /*Req 10*/
   nav{
-    padding: auto 0 auto 0;
-    position: absolute;
-    right: 0px;
+    /* position: absolute; */
+    /*right: 0px;*/
+    text-align: right;
     /*Your code here:*/
   }
 
